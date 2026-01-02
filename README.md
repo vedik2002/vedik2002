@@ -49,15 +49,16 @@
 **Systems & Infra**  
 <img src="https://img.shields.io/badge/Docker-black?logo=docker">
 <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi">
-<img src="https://img.shields.io/badge/Gin-Golang-blue">
+<img src="https://img.shields.io/badge/Django-092E20?logo=django">
 <img src="https://img.shields.io/badge/Linux-black?logo=linux">
 
 **Databases / Cloud**  
+<img src="https://img.shields.io/badge/SQL-blue">
+<img src="https://img.shields.io/badge/NoSQL-green">
 <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql">
 <img src="https://img.shields.io/badge/Qdrant-red">
 <img src="https://img.shields.io/badge/AWS-orange?logo=amazonaws">
 
----
 
 <details>
 <summary><b>🚀 Featured Projects & Publications</b></summary>
